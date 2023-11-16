@@ -1,7 +1,7 @@
-displayName: TorBlock
+displayName: TorBlock - Test
 type: middleware
 
-import: github.com/jpxd/torblock
+import: github.com/bilegg/torblock
 
 summary: 'Blocks Tor exit nodes from accessing services'
 
